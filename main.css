@@ -1,0 +1,24 @@
+
+body {
+    display: flex;
+    justify-content: center;
+    background: rgb(243, 243, 243);
+}
+table {
+    margin-top: 100px;
+    border-spacing: 30px;
+    /* border-collapse:unset; */
+}
+.box {
+    height: 50px;
+    width: 50px;
+    margin: 50px;
+    padding: 50px;
+    background: rgb(59, 59, 59);
+
+}
+
+.lightmode {
+    
+    background: rgb(161, 161, 161);
+}
